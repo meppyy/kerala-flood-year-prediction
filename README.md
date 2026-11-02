@@ -63,6 +63,6 @@ Currently in the initial environment setup and dataset exploration stage.
 
 ## 10. Author
 
-Name: Mansi Gupta
-Course: B.Sc. (Hons.) Computer Science
-College: Ramanujan College, University of Delhi
+- Name: Mansi Gupta
+- Course: B.Sc. (Hons.) Computer Science
+- College: Ramanujan College, University of Delhi
